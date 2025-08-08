@@ -13,7 +13,7 @@ ALLOWED_HOSTS = [
     '127.0.0.1',
     '89.169.177.177',
     'thunderproject.hopto.org'
-] 
+]
 
 
 # Application definition
